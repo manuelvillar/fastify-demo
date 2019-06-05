@@ -1,6 +1,6 @@
 const oas = require('fastify-oas');
 const fastify = require('fastify')({
-  logger: true,
+  logger: process.env.NODE_ENV !== 'test',
 });
 
 
