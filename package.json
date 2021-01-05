@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "chai-http": "^4.3.0",
     "fastify": "^2.4.1",
     "fastify-oas": "^2.1.3"
